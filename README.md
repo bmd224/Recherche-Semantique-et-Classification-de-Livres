@@ -1,7 +1,7 @@
 # Recherche Semantique et Classification de Livres
 Dans ce projet j'implémente un système de recherche sémantique et de classification automatique de livres utilisant l'IA d'**OpenAI** ainsi que **HuggingFace** et le traitement du langage naturel.
 ## Objectifs Principaux:
-Exploration et nettoyage d'un dataset de livres importé depuis kaggle
+Exploration et nettoyage d'un dataset de livres importé depuis kaggle  
 Classification automatique des livres en Fiction/Non-fiction
 Recherche sémantique basée sur la similarité des descriptions
 ## Technologies:
