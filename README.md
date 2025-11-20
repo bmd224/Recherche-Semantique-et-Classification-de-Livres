@@ -26,5 +26,6 @@ Dans ce projet j'implémente un système de recherche sémantique et de classifi
 - Embeddings OpenAI + base vectorielle ChromaDB  
 - Recherche par similarité sémantique  
 - Interface interactive pour requêtes naturelles  
-Retourne livres pertinents avec métadonnées complètes  
+Retourne livres pertinents avec métadonnées complètes
+Aussi vous devez avoir un fichier .env avec vos variables d'environnement (API de openAI et le token de Hugging Face)  
 Pour la realisation de ce projet, je me suis inspiré en appliquant les concepts de machine learning appris à travers diverses ressources éducatives dont aussi freecodecamp
