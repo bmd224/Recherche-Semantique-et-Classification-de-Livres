@@ -2,14 +2,14 @@
 Dans ce projet j'implémente un système de recherche sémantique et de classification automatique de livres utilisant l'IA d'**OpenAI** ainsi que **HuggingFace** et le traitement du langage naturel.
 ## Objectifs Principaux:
 Exploration et nettoyage d'un dataset de livres importé depuis kaggle  
-Classification automatique des livres en Fiction/Non-fiction
-Recherche sémantique basée sur la similarité des descriptions
+Classification automatique des livres en Fiction/Non-fiction  
+Recherche sémantique basée sur la similarité des descriptions  
 ## Technologies:
-NLP: Transformers (Hugging Face)
-Embeddings: OpenAI
-Base vectorielle: ChromaDB
-Classification: Modèle BART-large-mnli de facebook
-Data Processing: Pandas, NumPy
+NLP: Transformers (Hugging Face)  
+Embeddings: OpenAI  
+Base vectorielle: ChromaDB  
+Classification: Modèle BART-large-mnli de facebook  
+Data Processing: Pandas, NumPy  
 ## Fonctionnalités principales
 1.Exploration & Nettoyage (**exploration.py**):
 -Télécharge automatiquement le dataset Kaggle (7k livres)
